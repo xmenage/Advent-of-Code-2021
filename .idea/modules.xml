@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Day 1 Sonar Sweep/Day 1 Sonar Sweep.iml" filepath="$PROJECT_DIR$/Day 1 Sonar Sweep/Day 1 Sonar Sweep.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 2 Dive/Day 2 Dive.iml" filepath="$PROJECT_DIR$/Day 2 Dive/Day 2 Dive.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 3 Binary Diagnostic/Day 3 Binary Diagnostic.iml" filepath="$PROJECT_DIR$/Day 3 Binary Diagnostic/Day 3 Binary Diagnostic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 4 Giant Squid/Day 4 Giant Squid.iml" filepath="$PROJECT_DIR$/Day 4 Giant Squid/Day 4 Giant Squid.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 5 Hydrothermal Venture/Day 5 Hydrothermal Venture.iml" filepath="$PROJECT_DIR$/Day 5 Hydrothermal Venture/Day 5 Hydrothermal Venture.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Day 6 Lanternfish/Day 6 Lanternfish.iml" filepath="$PROJECT_DIR$/Day 6 Lanternfish/Day 6 Lanternfish.iml" />
+    </modules>
+  </component>
+</project>
